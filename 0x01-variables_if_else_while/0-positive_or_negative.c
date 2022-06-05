@@ -5,9 +5,9 @@
 
 /* betty style doc for function main goes there */
 /**
- * main - assigns a random number to int n everytime
- * it executes, and prints it
- * Return: Always 0 (Success)
+ * main - Entry point
+ * Description: prints 'is positive or negative'
+ * Return: 0 if Success
  */
 
 int main(void)
